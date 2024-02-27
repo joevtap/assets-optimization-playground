@@ -10,6 +10,8 @@
   "author": "",
   "license": "ISC",
   "workspaces": [
-    "packages/with-webpack"
+    "packages/with-webpack",
+    "packages/in-nextjs",
+    "packages/with-vite"
   ]
 }

@@ -1,0 +1,21 @@
+{
+  "name": "with-vite",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "sharp": "^0.33.2",
+    "vite": "^5.1.4",
+    "vite-plugin-image-optimizer": "^1.1.7"
+  },
+  "main": "main.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
