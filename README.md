@@ -68,7 +68,7 @@ O Next disponibiliza um componente especializado para a renderização performá
 
 Além disso, permite o _import_ estático de imagens que são comprimidas, processadas em diferentes tamanhos e formatos, que são usados pelo componente `<Image />` para entregar carregamentos rápidos desse tipo de asset sem dificuldade.
 
-Você pode ver como o componente `<Image />` está sendo usado no exemplo em [`src/app/page.js`].
+Você pode ver como o componente `<Image />` está sendo usado no exemplo em [`src/app/page.js`](/packages/in-nextjs/src/app/page.js).
 
 Para testar a configuração rode:
 
